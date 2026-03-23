@@ -27,8 +27,14 @@ cd REPO_NAME
 
 ## 🤝 Contributing
 
-We welcome contributions from all students!
-Please read the CONTRIBUTING.md before getting started.
+We welcome contributions from all students!  
+
+Before getting started, please read:  
+
+- [CONTRIBUTING.md](https://github.com/gdg-concordia/project-template/blob/main/CONTRIBUTING.md)  
+- [PROJECT_RULES.md](https://github.com/gdg-concordia/project-template/blob/main/PROJECT_RULES.md)  
+
+These files contain all the information you need to start contributing correctly.
 
 ---
 
